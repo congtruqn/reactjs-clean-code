@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: 'SVN-Gotham';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: "SVN-Gotham";
+  src: url("../src/assets/font/SVN-Gotham/SVN-Gotham-Regular.otf") format("otf");
+}
+@font-face {
+  font-family: "SVN-Gotham";
+  font-weight: bold;
+  src: url("../src/assets/font/SVN-Gotham/SVN-Gotham\ Bold.otf") format("otf");
+}
+@font-face {
+  font-family: "SVN-Gotham";
+  font-style: italic;
+  src: url("../src/assets/font/SVN-Gotham/SVN-Gotham\ Italic.otf") format("otf");
+}
+@font-face {
+  font-family: "SVN-Gotham";
+  font-weight: bold;
+  font-style: italic;
+  src: url("../src/assets/font/SVN-Gotham/SVN-Gotham\ Bold\ Italic.otf") format("otf");
+}
